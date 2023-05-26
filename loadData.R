@@ -30,7 +30,6 @@ read_offshoreWindData <- function(filename, foldername = "bronze/process_mapping
 # Select latest dated csv file to upload from compiled database
 offshoreWindData <- read_offshoreWindData("visData.xlsx")
 
-offshoreWindData <- read_offshoreWindData("visDataPre.xlsx")
 
 
 
