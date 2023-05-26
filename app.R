@@ -14,6 +14,7 @@ library(DT)
 library(mailtoR)
 
 #source("1_loadQaData.R")
+source("loadData.R")
 source("prepareData.R")
 
 ui <- dashboardPage(
